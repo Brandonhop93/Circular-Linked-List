@@ -1,9 +1,3 @@
-/*
- *  Brandon Hopkins - C3290146
- *  Software Engineering - SENG2200
- *  Assignment 2
- */
-
 public class Node<T>
 {
     private T data;

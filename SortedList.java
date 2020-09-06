@@ -1,8 +1,4 @@
 /*
- *  Brandon Hopkins - C3290146
- *  Software Engineering - SENG2200
- *  Assignment 2
- *
  *  SortedList is restricted to PlanarShapes, un-restrict by changing "extends PlanarShape" to "extends Comparable<T>".
  */
 

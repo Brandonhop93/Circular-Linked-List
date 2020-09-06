@@ -1,9 +1,3 @@
-/*
- *  Brandon Hopkins - C3290146
- *  Software Engineering - SENG2200
- *  Assignment 2
- */
-
 public class Circle extends PlanarShape
 {
     private Point center;

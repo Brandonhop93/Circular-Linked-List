@@ -1,9 +1,3 @@
-/*
- *  Brandon Hopkins - C3290146
- *  Software Engineering - SENG2200
- *  Assignment 2
- */
-
 public abstract class PlanarShape implements Comparable<PlanarShape>
 {
     /** Returns the area of the planar shape. */
